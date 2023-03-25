@@ -25,7 +25,8 @@ a {
 :root {
     --color-primary: #D73953;
     --color-black: #090909;
-    --color-white: var(--color-white);
-    --colr-ligth-grey: var(--colr-ligth-grey);
-    --text-color: var(--color-black);
+    --color-white: #ffffff;
+    --color-ligth-grey: #f3f3f3;
+    --color-dark-grey: #353535;
+
 }
