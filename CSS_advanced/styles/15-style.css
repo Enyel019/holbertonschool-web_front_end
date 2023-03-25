@@ -184,7 +184,7 @@ template {
 /*# sourceMappingURL=normalize.min.css.map */
 *,
 *::before,
-::after {
+*::after {
     box-sizing: border-box;
 }
 
