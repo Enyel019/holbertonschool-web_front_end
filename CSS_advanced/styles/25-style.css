@@ -438,10 +438,10 @@ ul.row {
     --nav-item-link-hover: var(--color-primary);
     --section-tagline-margin: 0;
     --button-display: inline-block;
-    --button-padding: 1.5 3rem;
+    --button-padding: 1.5rem 3rem;
     --button-border: 0.2rem solid var(--color-primary);
     --button-color: var(--color-black);
-    --button-text-decoration: none;
+    --button-text-decoration: --button-text-decoration;
     --button-font-size: var(--font-size-large);
     --button-hover-color: var(--color-white);
     --button-hover-text-decoration: none;
