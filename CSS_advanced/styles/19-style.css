@@ -268,18 +268,18 @@ ul.row {
 .col-1-2 {
     width: 50%;
     float: left;
-    padding: o.5rem;
+    padding: 0.5rem;
 
 }
 
 .footer-copyright {
-    margin: none;
+    margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
 
 }
 
-ul.footer {
+.footer ul {
     text-align: right;
 }
 
