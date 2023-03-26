@@ -440,6 +440,10 @@ ul.row {
 
 }
 
+.header-logo {
+    position: var(--header-logo-position);
+}
+
 .header-logo a {
     position: var(--header-logo-link-position);
     display: var(--header-logo-link-display);
