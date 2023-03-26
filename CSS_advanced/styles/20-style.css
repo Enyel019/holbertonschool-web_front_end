@@ -258,8 +258,8 @@ ul.row {
     list-style: none;
 }
 
-.row ::after {
-    content: 0;
+.row::after {
+    content: "";
     display: table;
     clear: both;
 }
