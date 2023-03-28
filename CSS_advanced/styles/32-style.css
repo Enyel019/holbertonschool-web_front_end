@@ -372,7 +372,7 @@ ul.row {
     background-color: var(--color-white);
     width: 0;
     height: 0.2rem;
-    transition: var(–transition-duration) var(transition-cubic-bezier);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 
 
 }
@@ -555,7 +555,7 @@ ul.row {
 }
 
 .card-work:hover .card-image {
-    transition: scale(1.2);
+    transform: scale(1.2);
     transition: var(--transition-duration) var(--transition-cubic-bezier);
 
 }
